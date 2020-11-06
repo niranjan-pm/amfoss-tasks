@@ -1,1 +1,1 @@
-
+I've done my Ubuntu installation by following a tutorial video on Youtube. These tutorial videos are really helpful and especially their comment section will help us to know about some issues other users have faced and also the solution for that.
